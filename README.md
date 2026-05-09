@@ -29,15 +29,6 @@ Resume-Builder/
 ├── assets/
 └── README.md
 
-⚙️ Installation & Setup
-Clone the repository
-git clone https://github.com/your-username/resume-builder.git
-Open the project folder
-cd resume-builder
-Run the project
-
-Simply open index.html in your browser.
-
 📸 Screenshots
 
 <img width="949" height="437" alt="image" src="https://github.com/user-attachments/assets/d90d5ad1-189c-461b-8dd6-1b50a4b6d735" />
