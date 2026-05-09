@@ -1,55 +1,81 @@
-Resume Builder Web Application
+# Quiz Module Web Application
 
-A modern and responsive Resume Builder Web Application that allows users to create professional resumes quickly and easily. Users can fill in their personal details, education, skills, projects, and experience, then generate a clean resume layout instantly.
+An interactive and responsive Quiz Module Web Application designed to test users' knowledge through multiple-choice questions and Test Presence of Mind by adding 
+"Wrong Answers only Section!! ". The application provides score calculation, and a smooth user experience across all devices.
 
-🚀 Live Demo
+---
 
-🔗 Live Website: https://sunaina-1706.github.io/Resume-builder/
+## 🚀 Live Demo
 
-📌 Features
-Create professional resumes instantly
-User-friendly and responsive UI
-Add personal details, education, and skills
-Include projects and work experience
-Dynamic resume preview generation
-Clean and modern design
-Easy to customize
+🔗 **Live Website:** https://sunaina-1706.github.io/Quiz-Module/
 
-🛠️ Technologies Used
-HTML5
-CSS3
-JavaScript (Vanilla JS)
+---
 
-📂 Project Structure
-Resume-Builder/
+## 📌 Features
+
+* Interactive multiple-choice quiz system
+* Real-time score tracking
+* Instant answer validation
+* Responsive design for all devices
+* Simple and user-friendly interface
+* Dynamic question navigation
+* Final result display
+
+---
+
+## 🛠️ Technologies Used
+
+* HTML5
+* CSS3
+* JavaScript (Vanilla JS)
+
+---
+
+## 📂 Project Structure
+
+```bash
+Quiz-Module/
 │
 ├── index.html
 ├── style.css
 ├── script.js
-├── assets/
+├── questions.js
 └── README.md
+```
 
-📸 Screenshots
+---
 
-<img width="949" height="437" alt="image" src="https://github.com/user-attachments/assets/d90d5ad1-189c-461b-8dd6-1b50a4b6d735" />
+## 🌟 Future Improvements
 
-🌟 Future Improvements
-PDF download option
-Multiple resume templates
-Dark mode support
-Backend integration for saving resumes
-Authentication system
+* Timer-based quiz functionality
+* Category-wise quizzes
+* Difficulty levels
+* Leaderboard system
+* Backend database integration
+* User authentication
+* Quiz result history
 
-If you'd like to improve this project:
+---
 
-Fork the repository
-Create a new branch
-Make your changes
-Submit a pull request
-📄 License
+## 🤝 Contributing
+
+Contributions are welcome!
+
+Steps to contribute:
+
+1. Fork the repository
+2. Create a new branch
+3. Make your changes
+4. Submit a pull request
+
+---
+
+## 📄 License
 
 This project is licensed under the MIT License.
 
-👨‍💻 Author
+---
+
+## 👨‍💻 Author
 
 Developed by Sunaina
